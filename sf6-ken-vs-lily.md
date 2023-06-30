@@ -1,8 +1,5 @@
 # sf6-ken-vs-lily
 
-Ken sided:
-
-
 [[sf6-ken-matchups]]
 [[sf6-lily-matchups]]
 
